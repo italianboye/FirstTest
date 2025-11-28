@@ -1,2 +1,2 @@
 # FirstTest
-My first test of making my own code
+My first test of making my own code, following CTF sessions
